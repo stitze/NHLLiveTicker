@@ -7,8 +7,8 @@
 #include <time.h>
 #include <WiFiClientSecure.h>
 
-const char *WIFI_SSID = "Galaxy S22 C172";
-const char *WIFI_PASSWORD = "offe3495";
+const char *WIFI_SSID = "";
+const char *WIFI_PASSWORD = "";
 
 const unsigned long  FETCH_INTERVAL_MS = 60000;
 const int            MATRIX_INTENSITY  = 3;
